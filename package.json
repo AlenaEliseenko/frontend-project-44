@@ -25,6 +25,8 @@
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
-    "es-module-loader": "^2.3.0"
+    "es-module-loader": "^2.3.0",
+    "eslint": "^8.29.0",
+    "eslint-plugin-react": "^7.31.11"
   }
 }
